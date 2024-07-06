@@ -2,7 +2,9 @@
 
 ## Project Overview
 
-TalentScan AI is a powerful resume analysis tool designed for HR professionals to streamline the candidate evaluation process. Leveraging advanced natural language processing and machine learning techniques, TalentScan AI provides quick, insightful analyses of resumes, helping recruiters identify top candidates efficiently.
+TalentScan AI is a powerful resume analysis tool designed for HR professionals to streamline the candidate evaluation process. Leveraging advanced natural language processing and machine learning techniques, TalentScan AI provides quick, insightful analyses of resumes, helping recruiters identify top candidates efficiently. 
+
+You can try out this app here : https://talent-scan-ai.streamlit.app/
 
 ## Key Features
 
