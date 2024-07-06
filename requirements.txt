@@ -1,0 +1,12 @@
+langchain-community==0.2.6
+langchain==0.2.6
+streamlit==1.36.0
+streamlit-option-menu==0.3.13
+streamlit_extras==0.4.3
+PyPDF2==3.0.1
+openai==1.35.10
+tiktoken==0.7.0
+faiss-cpu==1.8.0.post1
+selenium==4.22.0
+numpy==1.26.4
+pandas==2.2.2
